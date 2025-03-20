@@ -1,2 +1,4 @@
 *.sql linguist-detectable
 *.sql linguist-language=SQL
+*.r linguist-detectable
+*.r linguist-language=R
