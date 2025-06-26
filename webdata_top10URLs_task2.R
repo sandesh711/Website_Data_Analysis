@@ -14,7 +14,7 @@ library(ggplot2)  # Load the package
 df_10$order <- 1:10
 View(df_10)
 library(stringr)
-ggplot(data=df_10)+
+#ggplot(data=df_10)+
  # geom_bar(mapping=aes(x=factor(url, levels = url),y=visitor_count),stat = "identity")+
  #labs(title = "URL Count Bar Chart")+
   #theme(axis.text.x = element_text(hjust = 1))+
