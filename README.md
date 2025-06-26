@@ -1,4 +1,4 @@
-# website_data_analysis
+# Website Data Analysis - Google Data Analytics - Case Study
 #### This Repository is a part of my case study for Google Data Analytics course on Coursera
 #### As a case study i have analysed my website data
 # Tasks  
