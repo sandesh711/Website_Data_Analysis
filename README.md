@@ -10,7 +10,7 @@
 (No of visitors overtime)  
   
 # Data Collection
-Whenever a user browses any of my website data like below will be saved. Which is used in this analysis.  
+Whenever a user browses any of my website, data like below will be saved. Which is used in this analysis.  
 (user browsed pages, referrer pages, date and time of user hit)  
 
 # Analysis Process  
