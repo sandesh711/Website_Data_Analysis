@@ -21,4 +21,4 @@ Data is stored in MySQL database. I will be cleaning the table data using MySQL 
 To apply the Python webscraping topics in Task 4, I have created a web page and got information from the webpage using BeautifulSoup library.ChatGPT is a teammate with whom I ask for help when I get stuck. 
   
 # Result   
-Results are shared as excel file when data analysis and graph is generated in excel. Visualisation from Rstudio tool saved as jpgs.
+Results are shared as excel file when data analysis and graph is generated in excel. Visualisation from Rstudio tool saved as jpgs. Python programs are share as jupyter notebook.
