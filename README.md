@@ -16,8 +16,9 @@ This has been completed using Python Webscraping with library BeautifulSoup
 Whenever a user browses any of my website, data like below will be saved. Which is used in this analysis.  
 (user browsed pages, referrer pages, date and time of user hit)  
 
-# Analysis Process  
-Data is stored in MySQL database. I will be cleaning the table data using MySQL queries. After Cleaning I will analyse data, and if any transformation needed do that in MySQL temporary table. I will be pulling required data to Microsoft Excel or may be upload to cloud R for further Analysis. For graphs and visualisation will use R, Tableau and Excel. A little modification and transformation to data is also done in R. ChatGPT is a teammate with whom I ask for help when I get stuck.  
+# Data Analysis and Preparation Process  
+Data is stored in MySQL database. I will be cleaning the table data using MySQL queries. After Cleaning I will analyse data, and if any transformation needed do that in MySQL temporary table. I will be pulling required data to Microsoft Excel or may be upload to cloud R for further Analysis. For graphs and visualisation will use R, Tableau and Excel. A little modification and transformation to data is also done in R. ChatGPT is a teammate with whom I ask for help when I get stuck. 
+To apply the Python webscraping topics in Task 4, I have created a web page and got information from the webpage using BeautifulSoup library.
   
 # Result   
 Results are shared as excel file when data analysis and graph is generated in excel. Visualisation from Rstudio tool saved as jpgs.
