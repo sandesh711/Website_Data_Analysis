@@ -1,6 +1,6 @@
-# Website Data Analysis - Google Data Analytics - Case Study
-#### This Repository is a part of my case study for Google Data Analytics course on Coursera
-#### As a case study i have analysed my website data
+# Website Data Analysis
+#### This Repository is a part of my work while taking Data Analytics and Data Science related courses on Coursera
+#### I have analysed my website data, main motive is not the end result but to apply the topics learnt such as Python Programming, Webscraping using BeatifulSoup, SQL, R programmimg, Excel
 # Tasks  
 #### 1.Find out what are the users browsing more on my website. - ***completed***
 #### 2.What are top 10 URLs getting more hits on my website. - ***completed***
