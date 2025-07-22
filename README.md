@@ -4,8 +4,8 @@
 # Tasks  
 #### 1.Find out what are the users browsing more on my website. - ***completed***
 #### 2.What are top 10 URLs getting more hits on my website. - ***completed***
-#### 3.What kind of topic is getting more attention? - Ongoing  
-(Movies/ Celebrities, News, Inspirational, Informative, Educational, Investigative, Adult, Spiritual, Kids/ School, Literature, etc)  
+#### 3.Which celebrity/ personality profile getting more visits? - ***completed***  
+(Used Python Webscraping via BeautifulSoup library)  
 #### 4.What are the top referrer channel to my site. - ***completed*** 
 (direct, google search engine, other search engines, etc.. my own pages referred users excluded) 
 This has been completed using Python Webscraping with library BeautifulSoup
