@@ -6,8 +6,9 @@
 #### 2.What are top 10 URLs getting more hits on my website. - ***completed***
 #### 3.What kind of topic is getting more attention? - Ongoing  
 (Movies/ Celebrities, News, Inspirational, Informative, Educational, Investigative, Adult, Spiritual, Kids/ School, Literature, etc)  
-#### 4.What are the top referrer channel to my site. - Ongoing  
-(direct, google search engine, other search engines, etc.. my own pages referred users excluded)  
+#### 4.What are the top referrer channel to my site. - ***completed*** 
+(direct, google search engine, other search engines, etc.. my own pages referred users excluded)
+This has been completed using Python Webscraping with library BeautifulSoup
 #### 5. What is the trends of website visitors. - ***completed***
 (No of visitors overtime)  
   
