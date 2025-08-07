@@ -11,7 +11,8 @@
 This has been completed using Python Webscraping with library BeautifulSoup
 #### 5. What is the trends of website visitors. - ***completed***
 (No of visitors overtime)  
-  
+#### 6. Most popular TAG words visualised via WordCloud - ***completed***
+
 # Data Collection
 Whenever a user browses any of my website, data like below will be saved. Which is used in this analysis.  
 (user browsed pages, referrer pages, date and time of user hit)  
